@@ -1,0 +1,1 @@
+This folder deals with GNN classification (hadrons/ not hadrons) of jet constituenrs 

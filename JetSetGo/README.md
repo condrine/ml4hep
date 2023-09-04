@@ -1,0 +1,1 @@
+This folder deals with deepset implementation of jet soft drop mass regressio using a permutation invariant EFN model.
